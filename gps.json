@@ -1,0 +1,10 @@
+{
+        "location_type": "ellipse",
+        "location": "-122.984157:37.425056",
+        "major_axis": "100",
+        "minor_axis": "50",
+        "orientation": "70",
+        "height": "3.0",
+        "height_type": "AGL",
+        "vertical_tolerance": "7"
+}
